@@ -1,0 +1,52 @@
+.crumb {
+    display: inline-block;
+    padding-right: 10px;
+}
+
+.pages {
+  text-align: right;
+  padding-right: 20%;
+}
+
+h1 {
+	color: black;
+  font-size: 52px;
+  text-align: center;
+}
+
+h2 {
+  color: black;
+  font-size: 48px;
+  text-align: center;
+}
+
+nav {
+    border-bottom: 1px solid black;
+}
+
+
+footer {
+  border-top: 1px solid black;
+  display: flex;
+  justify-content: center;
+}
+
+.icon {
+  display: inline-block;
+  padding-right: 10px;
+}
+
+.social {
+  text-align: center;
+}
+
+/*
+.crumb a::after {
+    display: inline-block;
+    color: #000;
+    content: '>';
+    font-size: 50%;
+    font-weight: bold;
+    padding: 0 3px;
+}
+*/
